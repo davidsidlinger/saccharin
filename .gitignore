@@ -1,0 +1,7 @@
+# Visual Studio .gitignore file
+
+*.user
+*.suo
+_ReSharper.*/**
+src/**/obj/**
+src/**/bin/**
